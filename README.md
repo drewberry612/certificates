@@ -8,5 +8,5 @@ This repository contains the **PDFs** of any certifications I have completed.
 
 ## 📂 Files
 
-- [SQL for Data Science Certification]([./certifications/SQL_Certificate.pdf)
-- [Generative AI Certification](./certifications/GenAI_Certificate.pdf)
+- [SQL for Data Science Certification]([./SQL_Certificate.pdf)
+- [Generative AI Certification](./GenAI_Certificate.pdf)
