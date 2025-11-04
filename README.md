@@ -9,7 +9,7 @@ This repository contains the **PDFs** of any certifications I have completed.
 
 ## �️ Certifications
 
-- [OCI Generative AI Professional (Oracle)](./OCI-GEN-AI/Certificate.pdf) — *Earned: Oct 2025*
-- [OCI AI Vector Search Professional (Oracle)](./OCI-VEC/Certificate.pdf) — *Earned: Oct 2025*
+- [OCI Generative AI Professional (Oracle)](./OCI-GEN-AI/OCI_Generative_AI_Professional_Certificate.pdf) — *Earned: Oct 2025*
+- [OCI AI Vector Search Professional (Oracle)](./OCI-VEC/OCI_AI_Vector_Search_Professional_Certificate.pdf) — *Earned: Oct 2025*
 - [Generative AI (IBM)](./GenAI_Certificate.pdf) — *Earned: Jan 2025*
 - [Databases and SQL for Data Science with Python (IBM)](./SQL_Certificate.pdf) — *Earned: Dec 2024*
